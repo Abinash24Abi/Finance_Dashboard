@@ -1,0 +1,29 @@
+# =========================
+# FRONTEND
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/out/
+frontend/.env*
+frontend/coverage/
+frontend/.vite/
+
+# =========================
+# BACKEND
+# =========================
+backend/node_modules/
+backend/dist/
+backend/build/
+backend/.env*
+backend/coverage/
+backend/logs/
+backend/tmp/
+
+# =========================
+# GLOBAL
+# =========================
+.DS_Store
+.vscode/
+.idea/
+*.log
